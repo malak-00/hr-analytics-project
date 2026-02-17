@@ -107,6 +107,15 @@ Scatter plot reveals training quality matters more than quantity — no linear r
 ### Regional Distribution
 Interactive switcher allows filtering by employee count, KPI rate, or training score across 34 regions
 
+### Executive Summary
+![Executive Summary](screenshots/executive_summary.png)
+
+### Department Performance
+![Department Performance](screenshots/department_performance.png)
+
+### Employee Insights
+![Employee Insights](screenshots/employee_insights.png)
+
 ## 🚀 How to Run This Project
 
 ### Prerequisites
