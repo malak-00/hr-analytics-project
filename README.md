@@ -8,7 +8,6 @@ This end-to-end analytics project analyzes HR data to uncover patterns in employ
 
 **Dataset:** [Employee Performance for HR Analytics](https://www.kaggle.com/datasets/sanjanchaudhari/employees-performance-for-hr-analytics) (Kaggle)  
 **Records Analyzed:** 17,414 employees  
-**Time Period:** 2 days
 
 ## 🎯 Key Findings
 
@@ -32,7 +31,6 @@ hr-analytics-project/
 │
 ├── HR_Analytics_Project.ipynb    # Main analysis notebook
 ├── SQL_Analysis.sql               # Database creation & queries
-├── dashboard.pbix                 # Power BI dashboard file
 │
 ├── data/
 │   ├── departments.csv            # Dimension table
@@ -140,9 +138,10 @@ jupyter notebook HR_Analytics_Project.ipynb
 ```
 
 ### Power BI Dashboard
-1. Open `dashboard.pbix` in Power BI Desktop
-2. Update data source connection to your SQL Server
-3. Refresh data
+View dashboard screenshots in the `screenshots/` folder showing:
+- Executive summary with key insights
+- Interactive regional analysis with metric switcher
+- Department performance comparisons
 
 ## 📝 Future Improvements
 
